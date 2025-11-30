@@ -61,5 +61,3 @@ Lưu ý: app sử dụng đường dẫn tương đối tới `../data/data.csv`
 
 - Dữ liệu: `data/data.csv` là dataset chuẩn (Breast Cancer Wisconsin Dataset) đã được làm sạch (`id` và `Unnamed: 32` bị loại bỏ).
 - Mô hình: `model/model.pkl` (model huấn luyện — classifier, ví dụ RandomForest/Logistic), `model/scaler.pkl` (StandardScaler hoặc tương tự) để chuẩn hoá input trước khi dự đoán.
-
----
